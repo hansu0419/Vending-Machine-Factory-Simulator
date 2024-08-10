@@ -6,3 +6,8 @@ ranging from drinks, tickets, snacks, WIFI connections, and many more. In Japan,
 designed to function during blackouts, particularly in the wake of earthquakes and aftershocks, thus
 utilizing vending machines as an emergency aid.
 In an effort to invoke an appreciation of the many fascinating automation wonders of our modern era, We created a vending machine simulator. 
+
+# Running the Program
+1) Download netbeans
+2) Open the project there
+3) Compile and run the program
