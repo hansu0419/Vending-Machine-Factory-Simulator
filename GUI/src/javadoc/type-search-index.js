@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"MCO2","l":"ChangeBox"},{"p":"MCO2","l":"Factory"},{"p":"MCO2","l":"Item"},{"p":"MCO2","l":"ItemLoader"},{"p":"MCO2","l":"MainPage"},{"p":"MCO2","l":"RegularVM"},{"p":"MCO2","l":"Slot"},{"p":"MCO2","l":"SpecialVM"},{"p":"MCO2","l":"SummaryReceipt"}];updateSearchResults();
